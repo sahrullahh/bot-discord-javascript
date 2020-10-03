@@ -1,7 +1,7 @@
 # bot-discord-javascript
 Disini saya membuat bot discord mengunakan javascript
 
-cara menggunakan bot ini anda harus ikuti langkah ini:
+cara menggunakan codingan bot ini anda harus ikuti langkah ini:
 
 1. pertama pastikan anda sudah buat bot discord  di https://discord.com/developers/
 2. lalu di cek di setting > 0Auth2 pilih scope lalu centang yang namanya bot.
@@ -14,6 +14,8 @@ yang telah kamu buat.
 7. lalu kalian jalankan index.js dengan perintah : `npm run devStart`
 8. untuk info tentang fitur kalian bisa cek https://discord.js/
 
+kurang lebihnya mohon maaf ya bro
+Author: sahrul-dev
 
 
 
